@@ -7,7 +7,7 @@
 ![LinearRegressionOverview](Resources/LinearRegressionOverview.PNG)
 
 
-![Complete Summary](Resources/Complete Summary.PNG)
+![CompleteSummary](Resources/CompleteSummary.PNG)
 
 ![LotSummary](Resources/LotSummary.PNG)
 
