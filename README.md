@@ -31,14 +31,21 @@ Do the design specifications for the MechaCar suspension coils dictate that the 
 
 ## T-Tests on Suspension Coils
 
+The next portion of this project I would like to talk about are the T-tests. The first image is a combination of the three T-tests. The following ones are the individual T-test for lots 1, 2, and 3.
+
+In the first combo T-test we see the p-value as 0.06 which is greater than the significance level of 0.05. For this reason, the distribution is not very different from the normal distribution and we can assume normality. T-test for lot 2 is shown below.
+
 ![TtestFull](Resources/TtestFull.PNG)
 
+For the T-test on Lot 1 the p-value was 1 which is greater than the significance level of 0.05. For this reason, the distribution is not very different from the normal distribution and we can assume normality. T-test for lot 1 is shown below.
 
 ![TtestLot1](Resources/TtestLot1.PNG)
 
+For the T-test on Lot 2 the p-value was 0.6 which is greater than the significance level of 0.05. For this reason, the distribution is not very different from the normal distribution and we can assume normality. T-test for lot 2 is shown below.
 
 ![TtestLot2](Resources/TtestLot2.PNG)
 
+For the T-test on Lot 1 the p-value was 0.04 which is less than the significance level of 0.05. For this reason, the distribution is  very different from the normal distribution and thus we cannot assume normality. T-test for lot 3 is shown below.
 
 ![TtestLot3](Resources/TtestLot3.PNG)
 
