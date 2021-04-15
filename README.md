@@ -16,7 +16,7 @@
 ![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
 
 
-![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+![TtestFull](Resources/TtestFull.PNG)
 
 
 ![TtestLot1](Resources/TtestLot1.PNG)
