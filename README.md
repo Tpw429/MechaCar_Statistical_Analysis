@@ -7,13 +7,7 @@
 ![LinearRegressionOverview](Resources/LinearRegressionOverview.PNG)
 
 
-![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
-
-
-![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
-
-
-![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+![LotSummary](Resources/LotSummary.PNG)
 
 
 ![TtestFull](Resources/TtestFull.PNG)
