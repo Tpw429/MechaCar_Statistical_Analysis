@@ -15,6 +15,7 @@ Question 3: Does this linear model predict mpg of MechaCar prototypes effectivel
 
 ![LinearRegressionOverview](Resources/LinearRegressionOverview.PNG)
 
+## Summary Statistics on Suspension Coils
 
 ![CompleteSummary](Resources/CompleteSummary.PNG)
 
