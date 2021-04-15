@@ -4,4 +4,4 @@
 
 ## Study Design: MechaCar vs Competition
 
-![LinearRegreeionSummary](Resources/LinearRegreeionSummary.PNG)
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
