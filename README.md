@@ -19,13 +19,13 @@
 ![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
 
 
-![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+![TtestLot1](Resources/TtestLot1.PNG)
 
 
-![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+![TtestLot2](Resources/TtestLot2.PNG)
 
 
-![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+![TtestLot3](Resources/TtestLot3.PNG)
 
 
 
