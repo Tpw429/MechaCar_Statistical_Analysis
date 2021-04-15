@@ -23,5 +23,5 @@
 
 ![TtestLot3](Resources/TtestLot3.PNG)
 
-
+## Study Design: MechaCar vs Competition
 
