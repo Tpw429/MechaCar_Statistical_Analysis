@@ -45,7 +45,7 @@ For the T-test on Lot 2 the p-value was 0.6 which is greater than the significan
 
 ![TtestLot2](Resources/TtestLot2.PNG)
 
-For the T-test on Lot 1 the p-value was 0.04 which is less than the significance level of 0.05. For this reason, the distribution is  very different from the normal distribution and thus we cannot assume normality. T-test for lot 3 is shown below.
+For the T-test on Lot 3 the p-value was 0.04 which is less than the significance level of 0.05. For this reason, the distribution is  very different from the normal distribution and thus we cannot assume normality. T-test for lot 3 is shown below.
 
 ![TtestLot3](Resources/TtestLot3.PNG)
 
