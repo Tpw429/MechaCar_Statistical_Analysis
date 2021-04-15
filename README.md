@@ -5,3 +5,27 @@
 ## Study Design: MechaCar vs Competition
 
 ![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+![LinearRegressionSummary](Resources/LinearRegressionSummary.PNG)
+
+
+
